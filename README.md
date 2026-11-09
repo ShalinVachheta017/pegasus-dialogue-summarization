@@ -1,12 +1,26 @@
 # pegasus-dialogue-summarization
 
-## In Simple Words
+## Project Summary
 
-Long conversations can be difficult to review quickly. This project trains an AI model to turn a dialogue into a short summary that keeps the main points.
+### What is this project?
+This project turns long conversations into short summaries with the main points.
 
-**Real-life example:** Imagine reading a long chat and wanting its main takeaway. The system reads the conversation and produces a short summary.
+### Why is it interesting?
+A short recap can save time when reading a long chat.
+
+### How does it work?
+An AI model is trained on example conversations and summaries, then summarizes a new dialogue.
+
+### Real-life example
+You enter a long conversation and get a short summary to review.
+
+### What did I learn?
+I learned text preparation, language-model fine-tuning, evaluation, and application packaging.
 
 ---
+
+## Technical Documentation
+
 
 
 
