@@ -2,20 +2,9 @@
 
 ## Project Summary
 
-### What is this project?
-This project turns long conversations into short summaries with the main points.
+Imagine having a long conversation to read when you only need the main points. This project uses AI to turn a dialogue into a short summary. The challenge is making the result brief while keeping the meaning of what people said.
 
-### Why is it interesting?
-A short recap can save time when reading a long chat.
-
-### How does it work?
-An AI model is trained on example conversations and summaries, then summarizes a new dialogue.
-
-### Real-life example
-You enter a long conversation and get a short summary to review.
-
-### What did I learn?
-I learned text preparation, language-model fine-tuning, evaluation, and application packaging.
+I trained a language model using example conversations and summaries, then organized the steps needed to use it on new text. For example, a long chat can become a quick recap to review. I learned how to prepare text data, adapt a language model, check summary quality, and make the result available through an application.
 
 ---
 
